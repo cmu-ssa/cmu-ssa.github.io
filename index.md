@@ -7,5 +7,5 @@ CMU while also providing a social space and support network for Singaporean
 students.
 
 If you are an admitted student and wish to join our Telegram group, email us at 
-(ssa@andrew.cmu.edu)[mailto:ssa@andrew.cmu.edu] or DM us on Instagram at 
-(@cmu.ssa)[https://www.instagram.com/cmu.ssa/]!
+[ssa@andrew.cmu.edu](mailto:ssa@andrew.cmu.edu) or DM us on Instagram at 
+[@cmu.ssa](https://www.instagram.com/cmu.ssa/)!
